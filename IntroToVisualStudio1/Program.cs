@@ -9,6 +9,24 @@
             Console.WriteLine("I'm alive");
             Console.WriteLine("Alive and well");
             Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off"); 
+            Console.WriteLine("Hard work pays off");
+            Console.WriteLine("Hard work pays off");
+
         }
     }
 }
